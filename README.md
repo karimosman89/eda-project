@@ -37,12 +37,14 @@ This project performs exploratory data analysis (EDA) on a given dataset. It inc
 
 1. Prepare your dataset in the **/data** directory and name it **dataset.csv**.
 2. Run the EDA script:
-       python src/eda.py
+   
+         python src/eda.py
 
    
 ## Testing    
 
-python -m unittest discover -s tests
+
+     python -m unittest discover -s tests
 
 ## License
 
